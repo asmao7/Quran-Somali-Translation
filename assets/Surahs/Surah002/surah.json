@@ -1,0 +1,7 @@
+{
+  "surahNumber": 2,
+  "arabicName": "البقرة",
+  "somaliName": "Al-Baqara",
+  "startPage": 2,
+  "pages": ["page002.json", "page003.json"]
+}
